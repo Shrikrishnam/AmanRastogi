@@ -1,0 +1,106 @@
+{
+  "allfriends": [
+    {
+      "fname": "Aman",
+      "lname": "Rastogi",
+      "age": "23",
+      "phone": "7065697848",
+      "email": "aman@gmail.com",
+      "trainer": "My trainer",
+      "physio": true,
+      "street": "Shivpuri",
+      "city": "moradabad",
+      "state": "Uttar Pradesh",
+      "pincode": "244001",
+      "country": "India",
+      "date": "2020-09-06",
+      "packages": "5000",
+      "id": 1
+    },
+    {
+      "fname": "crazy",
+      "lname": "boy",
+      "age": "21",
+      "phone": "123456789",
+      "email": "cboy@yahoo.in",
+      "trainer": "train me",
+      "physio": "",
+      "street": "sherlock",
+      "city": "rampur",
+      "state": "MP",
+      "pincode": "213456",
+      "country": "UK",
+      "date": "2020-08-24",
+      "packages": "1000",
+      "id": 2
+    },
+    {
+      "fname": "marry",
+      "lname": "nolan",
+      "age": "24",
+      "phone": "123098745",
+      "email": "m.norlan@hotmail.in",
+      "trainer": "Lovely Singh",
+      "physio": true,
+      "street": "baker street",
+      "city": "down town",
+      "state": "stateless",
+      "pincode": "121340",
+      "country": "United Kingdom",
+      "date": "2020-08-24",
+      "packages": "5000",
+      "id": 3
+    },
+    {
+      "fname": "Mike",
+      "lname": "fury",
+      "age": "50",
+      "phone": "865656764",
+      "email": "mfury@gmail.com",
+      "trainer": "Mr fit",
+      "physio": true,
+      "street": "xyyz",
+      "city": "cvasdv",
+      "state": "CA",
+      "pincode": "134423",
+      "country": "USA",
+      "date": "2020-09-26",
+      "packages": "5000",
+      "id": 4
+    }
+  ],
+  "contact-us": [
+    {
+      "firstname": "test",
+      "lastname": "ltest",
+      "phonenumber": 53465765,
+      "email": "xyzzzzz@gmail.com",
+      "message": "uili7ol79",
+      "id": 1
+    },
+    {
+      "firstname": "test",
+      "lastname": "ltest",
+      "phonenumber": 53465765,
+      "email": "xyzzzzz@gmail.com",
+      "message": "gdrh",
+      "id": 2
+    },
+    {
+      "firstname": "test",
+      "lastname": "ltest",
+      "phonenumber": 53465765,
+      "email": "xyzzzzz@gmail.com",
+      "message": "gbde",
+      "id": 3
+    },
+    {
+      "firstname": "testname",
+      "lastname": "test",
+      "phonenumber": 9988776655,
+      "email": "test@test.com",
+      "message": "test message",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+appcomponentBoundaryShouldCreateTheApp=true
+landingpagecomponentBoundaryShouldCreate=false
+landingpagecomponentBoundaryShouldHaveAHeaderH1(introText)=false
